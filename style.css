@@ -564,6 +564,7 @@ body {
     height: 539px;
     background-color: #23174F;
     border-radius: 16px;
+        overflow: auto;
 }
 
 .slider-container {
